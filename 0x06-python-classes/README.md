@@ -32,7 +32,7 @@
 * How does Python find the attributes of an object or class
 * How to use the getattr function
 
-**Exercises**
+**Tasks**
 
 **0. My first square**
 
@@ -144,4 +144,4 @@
 **Author**
 
 
-*Full Stack Software Engineer*
+### Vincent Munyalo
