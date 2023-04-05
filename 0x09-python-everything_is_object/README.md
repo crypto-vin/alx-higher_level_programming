@@ -208,7 +208,7 @@
       a = (1, )
       Is 'a' a tuple? Answer with Yes or No.
 
-**24. Richard Sim's special #0**
+**24. Who am I?**
 
       What does this script print?
 
@@ -216,7 +216,7 @@
       b = (1)
       a is b
 
-**25. Richard Sim's special #1**
+**25. Tuple or not**
 
       What does this script print?
 
@@ -224,7 +224,7 @@
       b = (1, 2)
       a is b
 
-**26. Richard Sim's special #2**
+**26. Empty is not empty**
 
       What does this script print?
 
@@ -232,7 +232,7 @@
       b = ()
       a is b
 
-**27. Richard Sim's special #3**
+**27. Still the same?**
 
       >>> id(a)
       139926795932424
@@ -241,7 +241,7 @@
       >>> a = a + [5]
       >>> id(a)
 
-**28. Richard Sim's special #4**
+**28. Same or not**
 
       >>> a
       [1, 2, 3]
@@ -249,3 +249,6 @@
       139926795932424
       >>> a += [4]
       >>> id(a)
+      
+ ## Author
+ ###Vincent Munyalo
