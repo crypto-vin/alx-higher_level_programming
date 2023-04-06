@@ -93,3 +93,6 @@
 * Your test file should be python files (extension: .py)
 * Your test file should be executed by using this command:
   python3 -m unittest tests.6-max_integer_test
+
+## Author
+### Vincent Munyalo
