@@ -46,7 +46,7 @@ After entering the root MySQL password into the prompt (not to be confused with 
 
 **Requirements for SQL scripts**
 
-* Ubuntu 14.04 LTS using MySQL 5.7 (version 5.7.8-rc)
+* Ubuntu 20.04 LTS using MySQL 8.0 (version 8.0.1-rc)
 
 **Exercises**
 
